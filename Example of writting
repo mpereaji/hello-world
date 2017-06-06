@@ -1,6 +1,6 @@
 Apache Spot (Incubating)
 
-Apache Spot is open source software for leveraging insights from flow and packet analysis. It helps enterprises and service providers gain insight on their compute environments through transparency of service delivery and identification of potential security threats or attacks happening among resources operating at cloud scale.
+Apache Spot is an open source software for leveraging insights from flow and packet analysis and also to detect cyber attacks effectevely. It helps enterprises and service providers gain insight on their compute environments through transparency of service delivery and identification of potential security threats or attacks happening among resources operating at cloud scale.
 
 While current threat intelligence tools help, identifying unknown threats and attacks remains a challenge. Apache Spot provides tools to accelerate companies’ ability to expose suspicious connections and previously unseen attacks using flow and packet analysis technologies. 
 
@@ -23,23 +23,23 @@ Apache Spot by leveraging strong technology in both Big Data and Scientific Comp
 
 Telemetry
 
-Flows.
-DNS (pcaps).
-Proxy.
-Parallel Ingest Framework
+-Flows                          1
+-DNS (pcaps)                    2
+-Proxy                          3
+-Parallel Ingest Framework      4
 
-Open source decoders.
-Load data in Hadoop.
-Data transformation.
-Machine Learning
+ Open source decoders.
+ Load data in Hadoop.
+ Data transformation.
+ Machine Learning
 
 Filter billion of events to a few thousands.
 Unsupervised learning.
 Operational Analytics
 
 Visualization.
-Attack heuristics.
-Noise filter.
+Attack something of heuristics.
+Noise filter included.
 Try the Apache Spot UI with example data:
 
 Running Demo on Docker
@@ -73,19 +73,19 @@ Help us improve Apache Spot!
 
 Apache Spot is Apache 2.0 licensed and accepts contributions via GitHub pull requests. Please follow the next steps and join our community.
 
-Contributing to Apache Spot code
+Contributing to Apache Spot code renovation.
 
 Fork the repo of the module that you wish to commit to.
 Create a Branch, we use topic branches for our commits.
 Push your commit(s) to your repository.
 Create a pull request to the original repo in Apache Spot organization.
-Commit Guidelines
+Commit Guidelines maintainers
 
 Bug fixes should be a single commit.
 Please be clear with the commit messages about what you are fixing or adding to the code base. If you code is addressing an open issue please add the reference to the issue in the comments with: Fix: Issue's URL.
 Merge approval
 
-Apache Spot maintainers use +1 in a comment on the code review to indicate acceptance, at least 3 "+1" from maintainers are required to approve the merge. If you have any question or concern please feel free to add a comment in your pull request or branch and tag any of the maintainers.
+Apache Spot maintainers use +1 in a comment on the decisions code review to indicate acceptance, at least 3 "+1" from maintainers are required to approve the merge. If you have any question or concern please feel free to add a comment in your pull request or branch and tag any of the maintainers.
 
 Licensing
 
