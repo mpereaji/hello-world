@@ -5,7 +5,7 @@ adding this part....This repository is to understand Github functionality.
  
 
 2 dos  adding this part
-3 tres adding this part
+3 tres adding this part!
 
 My name is Mitch and I'm this is my first time with Github
 
