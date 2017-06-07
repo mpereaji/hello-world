@@ -13,7 +13,7 @@ Este es el tercer cambio realizado adding some words here unicamente para visual
 
 adding this third part.
 
-adding this part to be showed in the branch of update readme
+adding this part to be showed in the branch of update readme.....
 1 one
 2 two
 3 three
